@@ -1,0 +1,16 @@
+{
+  "name": "arduino-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "start": "nodemon logger.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^9.0.7",
+    "socket.io": "4.0.1"
+  }
+}
